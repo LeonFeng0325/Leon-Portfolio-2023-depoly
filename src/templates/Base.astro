@@ -1,5 +1,4 @@
 ---
-import { Footer } from '@/partials/Footer';
 import { Navbar } from '@/partials/Navbar';
 import { AppConfig } from '@/utils/AppConfig';
 
@@ -26,11 +25,8 @@ const {
     <link rel='alternate' type='application/rss+xml' href='/rss.xml' />
     <link rel='icon' type='image/x-icon' href='/favicon.ico' />
   </head>
-  <body class='bg-slate-900 text-gray-100'>
+  <body class='min-w-max bg-slate-900 text-gray-100'>
     <Navbar />
-
     <slot></slot>
-
-    <Footer />
   </body>
 </html>
