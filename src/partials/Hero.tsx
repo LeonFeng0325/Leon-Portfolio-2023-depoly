@@ -26,11 +26,7 @@ const Hero = () => (
           of rigorous industry internship experience in full stack software
           engineering at both startup and corporate environments. Outside work,
           I am an avid hiker, ping pong player, and occasionally cycle with my
-          friends. <br />
-          <br /> Some interesting facts about me: I am a big foodie, and rowed
-          for UCSB for 3 years until my back gives out😔. What I am most proud
-          of myself is that I have migrated database a couple times during my
-          past internships and have not deleted a prod database yet😮‍💨.
+          friends.
         </div>
       }
       avatar={
