@@ -36,6 +36,7 @@ const Navbar = () => (
         <NavMenuItem href="https://drive.google.com/u/0/uc?id=1f2G0CyE_EUj7myv2IK6eUwrSorI3yWNv&export=download">
           Resume
         </NavMenuItem>
+        <a href="mailto: leonfg2495@gmail.com">Email</a>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>

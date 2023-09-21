@@ -57,7 +57,7 @@ const ProjectList = () => (
       />
       <Project
         name="Lucidum"
-        description="For the summer of 2022. I interned at an early-stage startup called Lucidum. The company' platform helps organization assess risk and mitigate vulnerabilities by finding and correlating data from your security tech stack. I mainly worked on the report center feature, where our product displays essential analytic data from different data sources chosen by the customers such as Cloud, IT, Iot, and so on. This is a remote internship as the organization has engineering & product teams scattered across the U.S, Europe, and Asia."
+        description="For the summer of 2022. I interned at an early-stage startup called Lucidum. The company' SaaS platform helps organization assess risk and mitigate vulnerabilities by finding and correlating data from your security tech stack. I mainly worked on the report center feature, where our product displays essential analytic data from different data sources chosen by the customers such as Cloud, IT, Iot, and so on. This is a remote internship as the organization has engineering & product teams scattered across the U.S, Europe, and Asia. Lucidum is a fast growing startup with both small business and enterprise customers, and has raised over 15 millions in funding."
         link="https://lucidum.io/"
         img={{ src: '/assets/images/lucidum.jpeg', alt: 'Project Maps' }}
         category={
