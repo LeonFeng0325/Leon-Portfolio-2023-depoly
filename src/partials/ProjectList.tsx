@@ -17,7 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Parallel Systems"
-        description="For the summer of 2023, I worked at this early-stage startup in LA called Parallel Systems led by a group of brilliant engineers from SpaceX. The company's mission is to develop fully autonomous electric intermodal rail vehicles to convert part of the $700 billion U.S. trucking industry to rail. I helped start the first test pilot program of such novel rail technology in the U.S by developing a full stack web-based traffic authority platform that streamlines the process for managing track warrants and bulletins for all fleet vehicles. So far, Parallel has raised over 50 millions in funding and has started testing programs in the U.S and Australia."
+        description="For the summer of 2023, I worked as a full stack software engineer intern at this early-stage startup in LA called Parallel Systems led by a group of brilliant engineers from SpaceX. The company's mission is to develop fully autonomous electric intermodal rail vehicles to convert part of the $700 billion U.S. trucking industry to rail. I helped start the first test pilot program of such novel rail technology in the U.S by developing a full stack web-based traffic authority platform that streamlines the process for managing track warrants and bulletins for all fleet vehicles. So far, Parallel has raised over 50 millions in funding and has started testing programs in the U.S and Australia."
         link="https://moveparallel.com/"
         img={{
           src: '/assets/images/parallel.png',

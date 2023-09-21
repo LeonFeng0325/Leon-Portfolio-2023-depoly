@@ -27,6 +27,12 @@ const Hero = () => (
           engineering at both startup and corporate environments. Outside work,
           I am an avid hiker, ping pong player, and occasionally cycle with my
           friends.
+          <br />
+          <br />
+          Recently, I have finished my 12 week SWE internship at Parallel
+          Systems, where I built a traffic authority management platform that is
+          essential for the upcoming launching of the first fully autonomous and
+          electric freight test pilot program in the U.S.
         </div>
       }
       avatar={
